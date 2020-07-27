@@ -1,0 +1,14 @@
+D:\RnD\PCShadder\src\binary\LibClientServer.dll
+D:\RnD\PCShadder\src\binary\LibClientServer.pdb
+D:\RnD\PCShadder\src\LibClientServer\obj\Debug\LibClientServer.csprojResolveAssemblyReference.cache
+D:\RnD\PCShadder\src\LibClientServer\obj\Debug\LibClientServer.dll
+D:\RnD\PCShadder\src\LibClientServer\obj\Debug\LibClientServer.pdb
+D:\RnD\iHDSUpdateAgent\binary\LibClientServer.dll
+D:\RnD\iHDSUpdateAgent\binary\LibClientServer.pdb
+D:\RnD\iHDSUpdateAgent\LibClientServer\obj\Debug\LibClientServer.csprojResolveAssemblyReference.cache
+D:\RnD\iHDSUpdateAgent\LibClientServer\obj\Debug\LibClientServer.dll
+D:\RnD\iHDSUpdateAgent\LibClientServer\obj\Debug\LibClientServer.pdb
+E:\SELECTED_FOR_GITHUB\ClientServerObject\LibClientServer\obj\Debug\LibClientServer.dll
+E:\SELECTED_FOR_GITHUB\ClientServerObject\LibClientServer\obj\Debug\LibClientServer.pdb
+E:\SELECTED_FOR_GITHUB\ClientServerObject\binary\LibClientServer.dll
+E:\SELECTED_FOR_GITHUB\ClientServerObject\binary\LibClientServer.pdb
